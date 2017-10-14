@@ -35,5 +35,3 @@ def merge_sort( values ):
             index+=1
 
     #print("Merging: ", values)
-
-print( *merge_sort(short_list) )
